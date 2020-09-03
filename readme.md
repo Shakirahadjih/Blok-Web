@@ -64,8 +64,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken]
+<img src="images/Schermafbeelding%202020-09-03%20om%2013.23.54.png">
+<img src="images/Schermafbeelding%202020-09-03%20om%2013.23.59.png">
+<img src="images/Schermafbeelding%202020-09-03%20om%2013.24.04.png">
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-]
+<img src="images/Schermafbeelding%202020-09-03%20om%2014.08.36.png">
