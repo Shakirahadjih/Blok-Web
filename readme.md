@@ -50,8 +50,9 @@ https://codepen.io/shakirahadjih
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
-
+kijken naar h2
+overflow scroll
+article ipv section gebruiken af en toe
 
 
 ## Intake (week 1)
