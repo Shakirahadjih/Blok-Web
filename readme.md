@@ -30,9 +30,21 @@ https://codepen.io/shakirahadjih
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
 
+-dit ging goed & dit was lastig-
 
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent-
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+### Verslag van meeting
+
+Ik wil focussen op beide responsive en surface. Ik moet zorgen dat ik niet 1 pagina heel mooi maak en de andere af ga raffelen. Ik ben goed op weg.
 
 ## Voortgang 1 (week 3)
 
