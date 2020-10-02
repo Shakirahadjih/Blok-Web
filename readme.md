@@ -36,6 +36,11 @@ https://codepen.io/shakirahadjih
 
 **Screenshot(s):**
 
+
+
+
+
+
 -screenshot(s) van hoe ver je bent-
 
 ### Agenda voor meeting
