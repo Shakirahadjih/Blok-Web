@@ -24,7 +24,7 @@ https://cssanimation.rocks/scroll-cue/
 
 
 
---> zie dlo voor readme pdf
+--> zie readme pdf hierboven
 
 
 
