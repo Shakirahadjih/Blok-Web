@@ -17,6 +17,33 @@ https://cssanimation.rocks/scroll-cue/
 
 
 
+
+
+
+
+
+
+
+--> zie dlo voor readme pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
