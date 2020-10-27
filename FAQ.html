@@ -14,9 +14,19 @@
 </head>
 
 <body>
-    <header>
-
-    </header>
+  <!--  <header>
+        <nav>
+            <div class="logo_container">
+                <img class="logo_nav" src="images/logo.png">
+            </div>
+            <ul class="nav_links">
+                <li><a href="..">Shop</a></li>
+                <li><a href="..">Activism</a></li>
+                <li><a href="..">Sports</a></li>
+                <li><a href="..">Stories</a></li>
+            </ul>
+        </nav>
+    </header> -->
 
     <main>
 
@@ -28,7 +38,7 @@
             <article class="grow">
                 <a>Orders</a>
             </article>
-            <article class="grow"> 
+            <article class="grow">
                 <a>Shipping</a>
             </article>
             <article class="grow">
@@ -36,7 +46,7 @@
             </article>
             <article class="grow">
                 <a>Account</a>
-            </article >
+            </article>
             <article class="grow">
                 <a>Products</a>
             </article>
@@ -55,16 +65,29 @@
             <h3>Most Asked Questions</h3>
 
             <section class="FAQ_collapsibles">
-                <article class="FAQ_content">
-                    <button type="button" class="FAQ_button">I have used an old return label which was not generated through your new online return portal, what should I do?<img class="collapsible_arrow" src="images/down-arrow.png"></button>
+                <details class="FAQ_content">
+                    <summary type="button" class="FAQ_button">I have used an old return label which was not generated through your new online return portal, what should I do?</summary>
                     <p class="Answer">If you have used an old Patagonia return label to send back an item after March 24th, please reach out to our Customer Service team with your order number, your return number, the items you have sent back and a proof of postage from your forwarder. We will be happy to assist you.</p>
-                </article>
+                </details>
+                <details class="FAQ_content_notop">
+                    <summary type="button" class="FAQ_button">How long will it take for my item to arrive?</summary>
+                    <p class="Answer">Delivery times vary depending on your chosen shipping method and the destination of your parcel. For full details on packaging and transit times, please visit our Shipping Information page. <br>
+                        Please note that weather, public holidays, peak shipping seasons and incorrect delivery information can delay the shipment of your order. Patagonia are unfortunately unable to control or reimburse issues related to any of the above.</p>
+                </details>
+                <details class="FAQ_content_diff">
+                    <summary type="button" class="FAQ_button">How do I track my order?</summary>
+                    <p class="Answer">Once your order leaves our warehouse, we will send you an email with your tracking information. You will then be able to track the order as it makes its way to you.</p>
+                </details>
+                <details class="FAQ_content">
+                    <summary type="button" class="FAQ_button">How do I cancel or make changes to my order?</summary>
+                    <p class="Answer">To exchange an item from your recent order, simply send it back for a refund and place a new order on eu.patagonia.com. Please see our Returns and Repairs page for further details.</p>
+                </details>
             </section>
         </section>
 
     </main>
 
-<!--
+
     <footer>
         <section class="footer">
             <section class="footer_1">
@@ -81,7 +104,7 @@
                     <a class="footer2_buttons">Login</a>
                 </div>
             </section>
-            <section class="footer_informatie">
+            <section class="footer_3">
                 <h4>Information</h4>
                 <div class="footer_informatie_links">
                     <ul class="list_1">
@@ -126,8 +149,8 @@
                     </ul>
                 </div>
             </section>
+            <p class="tm">© 2020 Patagonia, Inc. All Rights Reserved.</p>
         </section>
-        <p class="tm">© 2020 Patagonia, Inc. All Rights Reserved.</p>
     </footer>
 
 </body>
