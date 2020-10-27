@@ -23,7 +23,17 @@ https://cssanimation.rocks/scroll-cue/
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+
+
+
+
+
+
+
+
+
+
+
 
 
 
