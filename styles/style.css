@@ -66,7 +66,7 @@ header {
         padding: 0;
     }
 
-    .winkelmandje img{
+    .winkelmandje img {
         max-width: 25px;
         max-height: 30px;
     }
@@ -303,6 +303,7 @@ nav a {
     text-decoration: none;
 }
 
+
 @media screen and (min-width: 375px) {
     #showcase {
         height: 80vh;
@@ -361,6 +362,11 @@ nav a {
 
     #showcase {
         align-items: center;
+    }
+
+    .button:hover {
+        cursor: pointer;
+        transform: scale(1.02);
     }
 
     .down_arrow {
@@ -952,6 +958,7 @@ h4 {
     font-size: 16px;
     font-weight: 750;
 }
+
 
 .footer_2 {
     margin: 4rem 0;
